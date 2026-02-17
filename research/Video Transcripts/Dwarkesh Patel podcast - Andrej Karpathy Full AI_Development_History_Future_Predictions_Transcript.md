@@ -1,3 +1,11 @@
+# Dwarkesh Patel Podcast - Andrej Karpathy: AI Development, History & Future Predictions
+
+*Full podcast transcript — Dwarkesh Patel with Andrej Karpathy*
+
+---
+
+## Introduction
+
 When personal learning is terrible, it just so happens that everything that we had before
 is much worse.
 I'm actually optimistic.
@@ -76,6 +84,8 @@ And I feel like the problems are tractable.
 They're surmountable, but they're still difficult.
 And if I just average it out, it just kind of feels like a ticket, I guess to me.
 This is actually quite interesting.
+## History of AI: Seismic Shifts
+
 I want to like, you're not only the history, but what people in the room felt was about to happen at various different breakthrough moments.
 Right.
 What were the ways in which their feelings were either overly pessimistic or really optimistic?
@@ -121,6 +131,8 @@ And then maybe the LLM's and actually seeking the representation power of the ne
 Interesting. Yeah, I guess if they were to steal man, the sort of a sudden perspective would be that humans actually can just take on everything at once.
 Even animals can take on everything at once, right? Animals are maybe a better example because they don't even have the scaffold of language.
 They just get thrown out into the world and they just have to make sense of everything without any labels.
+## Building Animals vs. Building Ghosts
+
 And the vision for AGI then should just be something which like just looks at sensory data looks like the computer screen and it just like figures out what's going on from scratch.
 I mean, if a human was put in a similar situation that would be trained from scratch, but I mean, this is like a human growing up where animal growing up.
 So why shouldn't that be the vision for AI rather than like this thing where we're doing millions of years of training?
@@ -192,6 +204,8 @@ If they had less knowledge or less memory, actually maybe they would be better.
 And so what I think we have to do kind of going forward and this would be part of the research paradigms is actually think we need to start.
 We need to figure out ways to remove some of the knowledge and to keep what I call this is this cognitive core is this like intelligent entity that is kind of strict from knowledge, but contains the algorithms and contains the magic, you know, of intelligence and problem solving and strategies of it and all this kind of stuff.
 There's so much interesting stuff there.
+## In-Context Learning and Pre-Training
+
 Okay, so let's start with in context learning.
 This is an obvious point, but I think it's worth just like saying it explicitly and meditating on it.
 The situation in which these models seem the most intelligent in which they are like I talked to them and I'm like, wow, there's really something on the other end that's responding to me thinking about things.
@@ -330,6 +344,8 @@ It's surprising that all of those things together only have the error.
 Which is like 30 years of progress is maybe maybe half is a lot because like if you have the error, that actually means that half is a lot.
 But I guess what we're shocking to me is everything needs to improve across the board architecture, optimize a loss function and also has improved across the board forever.
 So I kind of expect all those changes to be alive and well.
+## NanoChat and Learning by Building
+
 Yeah, I was about to ask you a very similar question about NanoChat.
 Because since you just coded up recently, every single sort of step in the process of building a chatbot is like fresh in your RAM.
 And I'm curious if you had similar thoughts about like, oh, there was no one thing that was relevant to going from GPT2 to NanoChat.
@@ -378,6 +394,8 @@ And you don't really have the knowledge, you just think you have the knowledge.
 So don't write blockposts, don't do slides, don't do any of that.
 Like build the code, arrange it, get it to work.
 So the only way to go, otherwise you're missing knowledge.
+## AI-Assisted Coding and Its Limitations
+
 You treated out that coding models were actually a very little help to you in assembling this repository.
 And I'm curious why that was.
 Yeah.
@@ -537,6 +555,8 @@ This is just one example.
 So go check out how label box can get you high quality frontier data
 across domains, modalities, and training paradigms.
 Reach out at labelbox.com slash the bar cash.
+## Reinforcement Learning: Problems and Potential
+
 Let's talk about RL a bit.
 You two do some very interesting things about this.
 Conceptually, how should we think about the way that humans are able to build
@@ -696,6 +716,8 @@ Because when you see these papers, they pop up and it's just like a little bit o
 But I haven't actually seen anyone convincingly show that this is possible.
 That said, the LLM labs are fairly closed.
 Also, who knows what they're doing that, but yeah.
+## Model Collapse, Synthetic Data and Reflection
+
 So I guess I, I see a very not easy, but like I can conceptualize how you would be able to train on synthetic examples
 or synthetic problems that you have made for yourself.
 But there seems to be another thing humans do, maybe sleep is this, maybe day dreaming is this.
@@ -871,6 +893,8 @@ You know, so it's going to drift too much from the distribution.
 So I think controlling the distribution is just like a tricky.
 It's just like someone just has to.
 It's probably not trivial in that sense.
+## The Cognitive Core and Model Size
+
 How many bits should the optimal core of intelligence end up being if you just had to make a guess?
 The thing we put on the one-noim and pros.
 How big does it have to be?
@@ -1011,6 +1035,8 @@ I'm so nervous.
 But thank you.
 Mercury is a financial technology company, not a bank.
 Banking services provided through choice financial group, call a manate and evolve bank and trust members FDIC.
+## Measuring Progress Toward AGI
+
 People have proposed different ways of charting how much progress you've made towards full AGI.
 Because if you come up with some line, then you can see where that line intersects with AGI and where that would happen on the X-axis.
 And so people have proposed, oh, it's like the education level.
@@ -1147,6 +1173,8 @@ And also, I mean code is hard.
 And so people sort of feel quite empowered by LLM's even from like simple, simple kind of knowledge.
 I basically, I don't actually know that I have a very good answer.
 I mean, obviously like text makes it much, much easier. Maybe his maybe why would I put it, but it doesn't mean that all text is trivial.
+## Superintelligence and Loss of Control
+
 How do you think about super intelligence?
 Do you expect it to feel qualitatively different from normal humans or human companies?
 I guess I think I see it as like a progression of automation in society, right?
@@ -1368,6 +1396,8 @@ And it's been amazing to see how fast these models are improving.
 This update makes VO even more useful in terms of animating our ideas and our explainers.
 You can try VO right now in the Gemini app with pro and ultra subscriptions.
 You can also access it through the Gemini API or through Google Flow.
+## Evolution of Intelligence
+
 You recommended Nick Lane's book to me and then on that basis,
 I find it also super interesting and I interviewed him.
 And so I actually have some questions about thinking about intelligence and evolutionary history.
@@ -1456,6 +1486,8 @@ A lot of a lot of animals are basically a pre-baked in this sense.
 And so humans have to figure it out that test time when they get born.
 And so maybe there was you actually want these kinds of environments that actually change really rapidly or simply like that where you can't foresee what will work well.
 And so you actually put all that intelligence you create intelligence to figure it out the test time.
+## The Intelligence Explosion Debate
+
 So Quentin Pope had this interesting blog post where he's saying the reason he doesn't expect a sharp takeoff is
 the humans at the sharp takeoff where 60,000 years ago we seem to have had the kind of architectures that we have today.
 And 10,000 years ago agricultural revolution maternity dot dot dot what was happening that 50,000 years.
@@ -1511,6 +1543,8 @@ And they can convincingly create all kinds of slop that looks really good.
 But I still think they don't really know what they're doing and they don't really have the cognition
 across all these little check boxes that we still have to collect.
 Yeah.
+## Lessons from Self-Driving Cars for AI Deployment
+
 So you've talked about how you were at Tesla leading self driving from 2017 to 2022.
 And then you first hand saw this progress from, we went from cool demos to now
 thousands of cars out there actually autonomously doing drives.

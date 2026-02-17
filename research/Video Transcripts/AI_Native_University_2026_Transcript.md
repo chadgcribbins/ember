@@ -1,0 +1,38 @@
+# AI Native University 2026
+
+*Video transcript*
+
+---
+
+In 2026, we'll see the birth of the first AI Native University, an institution built from the ground up around intelligent systems.
+
+Over the past years, universities have dabbled in AI-enabled grading, tutoring, and scheduling. But what's emerging now is deeper — an adaptive academic organism that learns and optimizes itself in real time.
+
+## The Vision
+
+Picture an institution where courses, advising, research, collaboration, and even building operations continuously adapt based on data-driven feedback loops. Schedules optimize themselves, reading lists evolve nightly and rewrite themselves as new research appears. Learning paths shift in real time to meet each student's pace and context.
+
+## Precursors
+
+We're already seeing precursors:
+
+- **ASU's** campus-wide partnership with OpenAI produced hundreds of AI-driven projects across teaching and administration
+- **SUNY** now embeds AI literacy into its general education requirements
+
+These are the building blocks for more foundational deployment.
+
+## The New Role of Professors
+
+In the AI Native University, professors become **architects of learning** — curating data, tuning models, and teaching students how to interrogate machine reasoning.
+
+Assessment shifts too. Detection tools and plagiarism bans give way to **AI-aware evaluation** — grading students on *how* they use AI, not *whether* they used it. Transparency and tactical application replaces prohibition.
+
+## The Talent Engine
+
+As every industry struggles to hire people who can design, govern, and collaborate with AI systems, this new university becomes the training ground — producing graduates fluent in orchestration who can help augment a rapidly shifting workforce.
+
+It becomes the talent engine for this new economy.
+
+---
+
+*Do you think an AI Native University will arise in 2026? Leave your thoughts in the comments below.*

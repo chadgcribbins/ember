@@ -13,14 +13,14 @@ Professor Andrew Manches (University of Edinburgh)—I'd like to find a way to l
 Loved this insight from real data on ChatGPT usage demand (spoiler alert: #1 use case is tutoring). Top three are all around self-education: [https://www.linkedin.com/posts/guillermoflor_20-billion-dollar-ai-startup-ideas-based-activity-7373673279410049025-XgT4](https://www.linkedin.com/posts/guillermoflor_20-billion-dollar-ai-startup-ideas-based-activity-7373673279410049025-XgT4)  
   
 **Folks Making Waves in This Space**  
-** BGA**  
+**BGA**  
 **Tim Vieira** (met first week in Lisbon)  
 [https://www.linkedin.com/in/timvieira](https://www.linkedin.com/in/timvieira?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 Brave Generation Academy  
 [https://bravegenerationacademy.com/](https://bravegenerationacademy.com/)  
 - Nils, the founder of Artemis has moved to Tanzania the base of Mount Kilimanjaro, where his kids are in school that stops at eight and Tim school will be the following on education from high school nine1011 and 12 so there could be an interesting connection there between Tim and Artemis.   
 - Tim has a project called the Humin university or he’s trying to set up a curriculum that makes people more switched onto the EQ and so he’s trying to build that out and he asked if I want to play a role that.  
- **Prequel**  
+**Prequel**  
 CEO **Ivy Xu** (saw her talk in September at Second Home): [https://www.linkedin.com/in/xuivy](https://www.linkedin.com/in/xuivy)  
 Her ed-tech is Prequel, based in Arizona. Great stories on their LinkedIn feed about kids building companies: [https://www.joinprequel.com/](https://www.joinprequel.com/)  
   
@@ -54,10 +54,10 @@ Great pod with him: [https://youtu.be/DZtGxNs9AVg](https://youtu.be/DZtGxNs9AVg)
 ![Image](Attachments/813019BE-3F6E-49F9-9880-BFB0842C2E24.png)  
   
   
-Jyothish  ++[https://www.starspark.ai/](https://www.starspark.ai/)++  
-++ On a secondment with a company that only invests in Ed Tech (Kirby a PE backed firm owned by lego) ++  
+Jyothish ++[https://www.starspark.ai/](https://www.starspark.ai/)++  
+++On a secondment with a company that only invests in Ed Tech (Kirby a PE backed firm owned by lego) ++  
 ++[https://www.linkedin.com/in/victoriathroenlonghi/](https://www.linkedin.com/in/victoriathroenlonghi/)++  
-++Chief advisor at Kirby Investments [https://www.linkedin.com/in/paul-willmott-199a3/](https://www.linkedin.com/in/paul-willmott-199a3/)++  
+++Chief advisor at Kirby Investments[https://www.linkedin.com/in/paul-willmott-199a3/](https://www.linkedin.com/in/paul-willmott-199a3/)++  
 [342 likes and 1 replies](https://x.com/juliangoldieseo/status/1976729630666375226?s=12)  
   
 [https://www.instagram.com/reel/DLptDSdM-SE/?igsh=YWhzazg1ZXVseW4=](https://www.instagram.com/reel/DLptDSdM-SE/?igsh=YWhzazg1ZXVseW4=)  
@@ -76,7 +76,7 @@ We’ve left the road for a bit and are now planting roots. We bought land to gr
   
 ![Home - School setting](Attachments/DA87F375-CC9D-471C-B4B5-E86286D3F204.png)  
   
-Jyo:   knows the founding family of YTL from HTB ytl group frogasia   
+Jyo:  knows the founding family of YTL from HTBytl group frogasia   
 [https://www.besa.org.uk/news/besa-member-news-malaysia-chooses-frog-transform-teaching-learning-nationally/](https://www.besa.org.uk/news/besa-member-news-malaysia-chooses-frog-transform-teaching-learning-nationally/)  
 [https://www.ytlailabs.com/](https://www.ytlailabs.com/)  
   
@@ -92,7 +92,7 @@ Nano banana history lesson.
   
   
 Pete Trainer   
-The AI school in north London (he is trying to get me connected to them) [https://www.cottesmoreschool.com/](https://www.cottesmoreschool.com/)  
+The AI school in north London (he is trying to get me connected to them)[https://www.cottesmoreschool.com/](https://www.cottesmoreschool.com/)  
   
 College where you build a company and travel the world.   
 [https://www.instagram.com/reel/DQMXbDrDq9h/?igsh=djR0aWhtMXFyN2Vu](https://www.instagram.com/reel/DQMXbDrDq9h/?igsh=djR0aWhtMXFyN2Vu)  

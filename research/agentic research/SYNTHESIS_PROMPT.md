@@ -38,7 +38,7 @@ The model compresses core academics (maths, literacy, science, etc.) into a **2-
 - **BGA (Brave Generation Academy)** — Operational and curriculum backbone. BGA already operates 53+ hubs across 12 countries (40+ in Portugal) with British and American accredited curricula via Pearson and eCampus. They use Learning Coaches (not teachers), self-directed asynchronous LMS, and serve 1,000-1,400 learners. BGA is a ready-made distribution network for Ember.
 - **WE3** — The AI systems builder (venture studio) responsible for designing and deploying the agentic platform
 
-**Critical framing**: Ember orchestrates **both halves** of the day. It knows where every child is academically *and* emotionally, and helps human guides make better decisions across the full learning experience.
+**Critical framing**: Ember's agents operate during the **morning mastery block only**. The afternoon is screen-free, human-led, and focused on project-based learning, creativity, collaboration, and EQ development. However, the system understands the **full day** through a handoff-and-feedback loop: morning agents produce briefs that inform the guide's afternoon decisions, and guide observations from the afternoon feed back into the student profile overnight. This means the OS has a whole-child view without putting screens in front of kids all day.
 
 ### The Academic Foundation
 
@@ -90,7 +90,7 @@ Draw from these principles throughout the synthesis:
 - **AI should amplify teachers and students, not replace them.** The guide's role shifts from lecturing to mentorship, emotional support, and ensuring "every kid truly loves school."
 - **Education is a human system before it is a technical one.** Most EdTech failures come from misunderstanding incentives, constraints, and child development — not from bad technology.
 - **European values as genuine differentiator** — not just GDPR compliance, but a philosophical stance on child development, data sovereignty, and the role of technology in learning.
-- **The afternoon half is the novel piece** — AI-powered human development (wellbeing, creativity, EQ), not just "stuff that isn't academics." The OS orchestrates both halves.
+- **The afternoon half is the novel piece** — Human-led, screen-free development (wellbeing, creativity, EQ, project-based learning), not just "stuff that isn't academics." The morning agents inform it via guide handoffs; guide observations feed back overnight. The OS understands the full day, but agents only run during the morning block.
 
 ---
 
@@ -156,10 +156,15 @@ Then define these specific agents:
   - Generate reports for parents (simplified, actionable: "What did my child work on today? What was the biggest challenge? How can we support this weekend?")
   - Interface with the Institutional Agent role (ensuring equity, removing barriers to student success)
 
-- **Afternoon Agent** (new — not in the original 4 research pieces but essential for Ember): Orchestrates the afternoon half — project-based learning, collaborative work, creativity sessions, SEL activities. This is where "spark finding" happens. This agent:
-  - Connects morning academic insights to afternoon project opportunities (a student showing strong spatial reasoning in maths gets suggested for an architecture project)
-  - Tracks non-academic growth: collaboration quality, leadership moments, creative output, emotional resilience
-  - Supports the measurement challenge: how do you quantify "confidence, agency, spark"?
+- **Morning-to-Afternoon Handoff** (not a separate agent — a capability of the existing agents): The afternoon is **screen-free and human-led**. There is no agent running during the afternoon. Instead, at the end of each morning mastery block, the Student Agent and Subject Agents produce a **guide-facing handoff brief** — a short synthesis for the human guide summarizing:
+  - Academic highlights and struggles from the morning session
+  - Observed strengths and emerging interests (e.g., "strong spatial reasoning in geometry — might thrive in a building/making project")
+  - Emotional state indicators (frustration, confidence, energy level)
+  - Suggested afternoon approaches (not prescriptions — the guide decides)
+
+  The guide uses this to shape the afternoon, but the afternoon itself is fully unplugged: project-based learning, collaboration, creativity, movement, EQ development — no screens, no agents.
+
+  At the end of the day, guides log brief observations back into the system (a simple input form, not a complex tool): "Maria led a team building project, showed strong collaboration, was energized after a frustrating morning reading segment." These human observations are ingested overnight into the Student Agent's profile, so the next morning's session reflects the **whole child** — not just test scores. This feedback loop is what makes Ember an OS for the full day, even though agents only operate during the morning block.
 
 For each agent, specify:
 - Core responsibilities
@@ -184,7 +189,12 @@ Walk through **two concrete scenarios** showing how the full system works:
 - How the Guide Agent alerts the human guide when the student needs encouragement after a frustrating reading segment
 - How the session data feeds back into the Curriculum Planning Agent
 
-**Scenario B — The Full Day** (morning + afternoon): Show how morning academic data flows into afternoon project selection. The same student's spatial strength leads to an afternoon architecture project; their reading struggle informs a paired reading buddy arrangement. Show how the Afternoon Agent and Student Agent collaborate to create a unified picture of the child's day for the guide and parents.
+**Scenario B — The Full Day Arc** (morning block → handoff → afternoon → next morning): Show how the system bridges the screen-on and screen-off halves of the day **without running agents in the afternoon**:
+- End of the morning block: the agents produce a handoff brief for the guide. The same student's spatial strength is flagged, along with the reading frustration.
+- The guide (human, no screens) uses this to pair the student with a building project in the afternoon and arranges a reading buddy.
+- At the end of the day, the guide logs brief observations: "Led the building team, high energy, reading buddy session went well — she chose to keep reading for 10 extra minutes."
+- The next morning, the Student Agent's profile reflects both the academic data AND the guide's afternoon observations. The Literacy Agent adjusts — maybe the reading buddy approach suggests a social/collaborative modality for reading practice in the next session.
+- Show how this daily loop builds a richer, whole-child picture over weeks and months.
 
 ---
 
@@ -302,7 +312,7 @@ Based on the competitive landscape (60+ companies in the K-12 AI space), articul
 
 1. **Agentic architecture** — Multi-agent system with persistent identity, bot-to-bot coordination, and per-student advocacy. Everyone else uses monolithic AI tutors or simple adaptive engines. Ember's agents form a "collective learning OS" around each child.
 
-2. **The afternoon half** — The OS orchestrates human development (creativity, EQ, collaboration), not just academics. Alpha School does 2-hour learning but treats the afternoon as a separate program. Ember's agents bridge both halves — morning academic data informs afternoon project selection and vice versa.
+2. **The afternoon half is human-led and screen-free** — Ember's morning agents produce handoff briefs that inform the afternoon, and guide observations from the afternoon feed back into the next morning. The OS understands the whole day, but agents only operate during the morning block. Alpha School does 2-hour learning but treats the afternoon as a separate program. Ember creates a continuous feedback loop between the agentic morning and the human afternoon — without putting screens in front of kids all day.
 
 3. **European values and regulatory framework** — Built for GDPR, EU AI Act, and a philosophical stance on childhood that prioritizes wellbeing over optimization. "Happiness over results" as a design principle. Local-first data ownership. Transparency by default.
 
